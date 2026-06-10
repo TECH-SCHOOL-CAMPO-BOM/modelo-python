@@ -1,6 +1,6 @@
-# Aula 10 - Revisão integrada
+# Aula 11 - POO e Classes
 
-Use esta pasta para entregar a atividade de revisão integrada.
+POO, classe, objeto, atributo + GitHub como organização.
 
 ## Arquivos sugeridos
 
